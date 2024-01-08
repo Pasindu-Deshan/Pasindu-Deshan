@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀Hello there! I am a passionate software engineer with a mission to create impactful solutions by writing clean and efficient code.<br> I love problem-solving and innovation, and my GitHub profile is a reflection of my journey through the exciting world of technology. <br>I invite you to join me as I explore, create, and contribute to <br>the ever-evolving landscape of software development!💻✨
+🚀Hello there! I am a passionate software engineer with a mission to create impactful solutions by writing clean and efficient code.<br> I love problem-solving and innovation, and my GitHub profile is a reflection of my journey through the exciting world of technology. I invite you to join me as I explore, create, and contribute to <br>the ever-evolving landscape of software development!💻✨
 
 
 ## 🌐 Socials:
